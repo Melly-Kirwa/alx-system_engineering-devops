@@ -1,4 +1,7 @@
 #!/bin/bash
-ls -d $(pwd -P)
+ls -d $(pwd -P)select 0 in ; do
+    $0
+done
+
 
 
